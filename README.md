@@ -1,5 +1,15 @@
 # publications
 
+Dome, L. & Wills, A.J. (2023) g-distance: On the comparison of model and human heterogeneity. PsyArxiv.
+[[pdf]](https://psyarxiv.com/ygmcj/)
+[[doi]](https://doi.org/10.31234/osf.io/ygmcj)
+
+Dome, L. & Wills, A. J. (2023). Errorless irrationality: removing error-driven components from the inverse base-rate effect paradigm. PsyArxiv.
+[[pdf]](https://psyarxiv.com/936bj/)
+[[experiment_1]](https://osf.io/auwvt/)
+[[experiment_2]](https://osf.io/2tmc4/)
+[[doi]](https://doi.org/10.31234/osf.io/936bj)
+
 Dome, L., Edmunds, C., & Wills, A. J. (2021). SUSTAIN captures category learning, recognition, and hippocampal activation in a unidimensional vs information-integration task. In Proceedings of the Annual Meeting of the Cognitive Science Society. Vol. 43. 3013-3019.
 [[pdf](/pdf/dome2021sustain.pdf)]
 [[data](https://osf.io/jc9xs/)]
