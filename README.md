@@ -4,7 +4,11 @@ Dome, L. & Wills, A.J. (2023) g-distance: On the comparison of model and human h
 [[pdf]](https://psyarxiv.com/ygmcj/)
 [[doi]](https://doi.org/10.31234/osf.io/ygmcj)
 
-Dome, L. & Wills, A. J. (2023). Errorless irrationality: removing error-driven components from the inverse base-rate effect paradigm. PsyArxiv.
+Dome, L. & Wills, A.J. (2023) Better Generalization Through Distractions. PsyArxiv.
+[[pdf]](https://psyarxiv.com/eskr9/)
+[[doi]](https://doi.org/10.31234/osf.io/eskr9)
+
+Dome, L. & Wills, A. J. (2023). Errorless irrationality: removing error-driven components from the inverse base-rate effect paradigm. Proceedings of the Annual Meeting of the Cognitive Science Society. Vol. 45.
 [[pdf]](https://psyarxiv.com/936bj/)
 [[experiment_1]](https://osf.io/auwvt/)
 [[experiment_2]](https://osf.io/2tmc4/)
